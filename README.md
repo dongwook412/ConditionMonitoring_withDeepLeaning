@@ -9,5 +9,9 @@
 ### Version
 * R-studio v3.5.2
 
+### Method
+* Wavelet transforms(Noise 제거)
+* LSTM
+
 ### Report
 * [Report](https://drive.google.com/file/d/1P_BFP_9rWpZfOhI3m4XgoA5N0NWEQD3x/view?usp=sharing)
