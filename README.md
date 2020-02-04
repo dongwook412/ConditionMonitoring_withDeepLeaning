@@ -6,5 +6,8 @@
 ### Data
 * [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Condition+monitoring+of+hydraulic+systems#)
 
-### Tool
-* R
+### Version
+* R-studio v3.5.2
+
+### Report
+* [Report](https://drive.google.com/file/d/1P_BFP_9rWpZfOhI3m4XgoA5N0NWEQD3x/view?usp=sharing)
